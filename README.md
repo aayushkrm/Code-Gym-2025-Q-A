@@ -4,7 +4,7 @@ This repository showcases the solutions that secured a 3rd place finish at the C
 
 ## About the Hackathon
 
-The Code Gym 2025 was an intense 24-hour coding competition where participants were challenged with a series of algorithmic problems. My solutions were written in C++ and Python, demonstrating my versatility in different programming languages.
+The Code Gym 2025 was an intense 5-hour coding competition where participants were challenged with a series of algorithmic problems. My solutions were written in C++ and Python, demonstrating my versatility in different programming languages.
 
 ## Solutions
 
