@@ -4,6 +4,7 @@ This repository showcases the solutions developed by team **40+40+1=1001** (a tw
 
 ## About the Hackathon
 
+<<<<<< feature/organize-and-document-hackathon-repo
 The Code Gym 2025 was an intense 24-hour coding competition where participants were challenged with a series of algorithmic problems of varying difficulty. The solutions required a solid understanding of data structures and algorithms, and had to be implemented under strict time and memory limitations. Our solutions were written in C++ and Python, demonstrating our versatility in different programming languages and problem-solving paradigms.
 
 ## Challenges and Approach
@@ -16,6 +17,9 @@ The tasks involved a wide range of algorithmic concepts, including:
 *   **Mathematical Reasoning:** Problems involving number theory, probability, and linear algebra concepts.
 
 All solutions were developed under significant time pressure and had to pass a rigorous set of test cases, including hidden ones designed to test for edge cases, performance, and memory usage.
+=======
+The Code Gym 2025 was an intense 5-hour coding competition where participants were challenged with a series of algorithmic problems. My solutions were written in C++ and Python, demonstrating my versatility in different programming languages.
+>>>>>> main
 
 ## Solutions
 
