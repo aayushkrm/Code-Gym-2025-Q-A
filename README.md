@@ -4,7 +4,7 @@ This repository showcases the solutions I developed as part of team **40+40+1=10
 
 ## About the Hackathon
 
-The Code Gym 2025 was an intense 24-hour coding competition where participants were challenged with a series of algorithmic problems of varying difficulty. The solutions required a solid understanding of data structures and algorithms, and had to be implemented under strict time and memory limitations. My solutions were written in C++ and Python, demonstrating my versatility in different programming languages and problem-solving paradigms.
+The Code Gym 2025 was a hackathon organized by one of the biggest largest fintech and commercial bank of Russia known as T-Bank (Russian: Т-Банк), formerly known as Tinkoff Bank based in Moscow. The hackathon was part of Т‑Образование. was an intense 24-hour coding competition where participants were challenged with a series of algorithmic problems of varying difficulty. The solutions required a solid understanding of data structures and algorithms, and had to be implemented under strict time and memory limitations. My solutions were written in C++ and Python, demonstrating my versatility in different programming languages and problem-solving paradigms.
 
 ## Challenges and Approach
 
